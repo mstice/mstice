@@ -1,6 +1,6 @@
 # Hi👋 I'm Matilda Tice
 <p align="center">
-  I enjoy building 👷‍♀️ things and I enjoy breaking 🔨them
+  I enjoy building 👷‍♀️ things and breaking 🔨them
 </p>
 
 I am a student at École 42.
