@@ -48,3 +48,5 @@ You can read a more about my experience as a 42 student [here](https://42london.
 <img width="150" height="150" alt="cub3d + bonus" src="https://github.com/user-attachments/assets/bb9e3dfc-0f0a-4f7f-b881-9f850ba55f06" />
 <img width="150" height="150" alt="cpp + bonus" src="https://github.com/user-attachments/assets/1437bc20-b15e-4234-819a-c86c9811b124" />
 <img width="150" height="150" alt="netpracticem" src="https://github.com/user-attachments/assets/8cb4863e-88ca-4a62-ba71-d6ede5d19db9" />
+
+<sub><sup>42 Badges: [Ayogun](https://github.com/ayogun/42-project-badges) </sup></sub>
