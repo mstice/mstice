@@ -1,17 +1,22 @@
 # Hi👋 I'm Matilda Tice
 <p align="center">
-  I enjoy building 👷‍♀️ things and breaking 🔨them
+  I am a student at École 42. <br><br>
+  I enjoy building 👷‍♀️ things and breaking 🔨them <br><br>
+  I love NeoVim and all it has to offer. <br><br>
+  I am passionate about offensive cybersecurity 🥷 and love to hunt for vulnerabilities. <br><br>
 </p>
 
-I am a student at École 42.
-
-I am passionate about offensive cybersecurity 🥷 and love to hunt for vulnerabilities.
-
+**What I am currently up to:**
 - 🔎 I'm currently building an HTTP serve in C++
 - ➡️ My next big project will be to create a dynamic web application
 - 🌱 I'm currently exploring cybersecurity on TryHackMe
 - 💪 I'm strengthening my skills in C++ and Python on Leetcode
 - 👷‍♀️ I'm working towards obtaining my AWS Solutions Architect Certification
+
+## Collaborations
+👥 Minishell with [aramos-gua](https://github.com/aramos-gua)  
+👥 Cub3D with Abdias Tamo  
+👥 Webserv with [bvan-duy](https://github.com/bvan-duy) and [SLTctoi](https://github.com/SLTctoi)  
 
 ## Programming Languages
 <p align="center">
@@ -19,7 +24,6 @@ I am passionate about offensive cybersecurity 🥷 and love to hunt for vulnerab
     <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,html,markdown,cmake,lua,perl,r" />
   </a>
 </p>
-
 
 ## Text Editors and IDEs
 <p align="center">
